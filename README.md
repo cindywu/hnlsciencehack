@@ -1,18 +1,19 @@
-# My cool website
+# Bootstrap 4.0 Blog
 
-This file describes your project to the community. What's your cool website about? What makes it special?
+## Magazine-like blog template with header, navigation, featured content
 
-ヽ(๏∀๏ )ﾉ
+![Bootstrap 4 Blog Example](https://cdn.glitch.com/c40f4d75-45fa-4286-aaf9-d91e144fe27d%2Fbootstrap-example-blog.png?1517243248292)
 
-## ← index.html
+Bootstrap is the world’s most popular framework for building responsive, mobile-first sites. This project is a simple **Blog template** that's one of the official [Bootstrap examples](https://getbootstrap.com/docs/4.0/examples/).
 
-Where you'll write the content of your website. 
 
-## ← styles.css
 
-CSS files add styling rules to your content
+### ← /css/blog.css
 
-## ← script.js
+These are a few simple styles used to complete the styling of the Bootstrap Album example.
 
-If you're feeling fancy you can add interactivity to your site with Javascript
+
+### ← index.html
+
+This is where you'll find the content of the Bootstrap 4.0 page; remix this project and start editing `index.html` to begin creating your own site. 
 
