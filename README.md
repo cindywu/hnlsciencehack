@@ -1,16 +1,15 @@
-# Bootstrap 4.0 Checkout
+# Bootstrap 4.0 Cover
 
-## CCustom checkout form showing form components and their validation features.
+## A one-page template for building simple and beautiful home pages.
 
-![Bootstrap 4 Checkout Example](https://cdn.glitch.com/75c24903-ac5d-4c9c-8c46-9e6ad96febb0%2Fbootstrap-4-example-checkout.png?1517244170627)
+![Bootstrap 4 Cover Example](https://cdn.glitch.com/0245b532-5d68-41d4-b409-220d0441f7f2%2Fbootstrap-4-example-cover.png?1517245478699)
 
-Bootstrap is the world’s most popular framework for building responsive, mobile-first sites. This project is a simple **Checkout template** that's one of the official [Bootstrap examples](https://getbootstrap.com/docs/4.0/examples/).
+Bootstrap is the world’s most popular framework for building responsive, mobile-first sites. This project is a simple **Cover template** that's one of the official [Bootstrap examples](https://getbootstrap.com/docs/4.0/examples/).
 
 
+### ← /css/cover.css
 
-### ← /css/form-validation.css
-
-These are a few simple styles used to complete the styling of the Bootstrap Checkout example.
+These are a few simple styles used to complete the styling of the Bootstrap Cover example.
 
 
 ### ← index.html
