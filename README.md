@@ -1,15 +1,15 @@
-# Bootstrap 4.0 Starter template
+# Bootstrap 4.0 Sticky footer template
 
 ## Custom form layout and design for a simple sign in form.
 
-![Bootstrap 4 Starter template](https://cdn.glitch.com/b3513d9b-182e-406e-9580-c39c42ac2d36%2Fbootstrap-4-example-signin.png?1517326284631)
+![Bootstrap 4 Sticky footer template](https://cdn.glitch.com/da9cb61b-5534-4b0a-ad69-d47a49700e1c%2Fbootstrap-4-example-sticky-footer.png?1517328835674)
 
-Bootstrap is the world’s most popular framework for building responsive, mobile-first sites. This project is a simple **Starter template** that's one of the official [Bootstrap examples](https://getbootstrap.com/docs/4.0/examples/).
+Bootstrap is the world’s most popular framework for building responsive, mobile-first sites. This project is a simple **Sticky footer template** that's one of the official [Bootstrap examples](https://getbootstrap.com/docs/4.0/examples/).
 
 
-### ← /css/starter-template.css
+### ← /css/sticky-footer.css
 
-These are a few simple styles used to complete the styling of the Bootstrap Starter template example.
+These are a few simple styles used to complete the styling of the Bootstrap Sticky footer template example.
 
 
 ### ← index.html
