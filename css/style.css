@@ -22,10 +22,21 @@ img {
   display: inline-block;
 }
 
+.row {
+  margin-top: 50px;
+}
+
 .header_content {
   position: relative;
   z-index: 1;
   text-align: center;
+}
+
+.sub_header {
+  text-align: left;
+  margin-top: 100px;
+  position: relative;
+  z-index: 1;
 }
 
 .header_bg {
