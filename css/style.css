@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Ramaraja&display=swap');
+
 body {
   background: cyan;
+}
+
+h2 {
+  font-family: 'Ramaraja', serif;
 }
