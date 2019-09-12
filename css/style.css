@@ -1,9 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Ramaraja&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ramaraja|Ropa+Sans&display=swap');
 
-body {
-  background: cyan;
+body{
+  background: #EAF9F7;
+}
+
+h1 {
+  font-family: 'Ramaraja', serif;
 }
 
 h2 {
   font-family: 'Ramaraja', serif;
+}
+
+p {
+  font-family: 'Ropa Sans', sans-serif;
 }
