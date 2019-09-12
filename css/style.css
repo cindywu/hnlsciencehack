@@ -6,6 +6,7 @@ body{
 
 h1 {
   font-family: 'Ramaraja', serif;
+  text-align: center;
 }
 
 h2 {
@@ -14,4 +15,12 @@ h2 {
 
 p {
   font-family: 'Ropa Sans', sans-serif;
+}
+
+img {
+  float: left;
+}
+
+.header {
+  text-align: center;
 }
