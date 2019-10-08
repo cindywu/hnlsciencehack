@@ -9,7 +9,8 @@ h1 {
 
 h2 {
   font-family: 'Ramaraja', serif;
-  margin-top: 50px;
+  margin-top: 80px;
+  margin-bottom: 30px;
   display: block;
 }
 
@@ -20,6 +21,8 @@ p {
 
 img {
   display: inline-block;
+  margin: 0 auto;
+  width: 50%;
 }
 
 .row {
@@ -46,7 +49,7 @@ img {
   right: 0;
   left: 0;
   width: 100%;
-  height: 600px;
+  height: 450px;
   z-index: 0;
   background-color: #EAF9F7;
   transform: skewY(-6deg);
@@ -55,7 +58,7 @@ img {
 
 .header p {
   font-size: 24px;
-  line-height: 32px;
+  line-height: 37px;
 }
 
 
